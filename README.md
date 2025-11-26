@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mitesh Sawant
 
-### 🚀 Passionate Full-Stack Developer | MERN Stack Enthusiast
+### 🚀 Passionate Full-Stack Developer | MERN Stack Enthusiast | Data Analytics
 
 ---
 
